@@ -4,7 +4,7 @@ from PIL import Image
 st.title("Methodology")
 
 # Display the image
-image_path = "Methodology.jpg"  
+image_path = "methodology.jpg"  
 image = Image.open(image_path)
 st.image(image, caption="Methodology", use_column_width=True)
 
