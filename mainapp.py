@@ -70,5 +70,6 @@ if st.button("Submit Question"):
     st.write("Response:")
     st.write(response)
 
-#mainapppy-rehvfzi4kea2ssbdp5qczv
+# mainapppy-rehvfzi4kea2ssbdp5qczv
 #financial-programs-app.streamlit.app
+# financial-programs-info.streamlit.app

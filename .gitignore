@@ -24,6 +24,5 @@ dist/
 .streamlit/secrets.toml
 
 # files
-methodology.jpg
 methodology.pptx
 test.ipynb
