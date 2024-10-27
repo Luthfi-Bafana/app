@@ -19,7 +19,7 @@ st.sidebar.success("Select a page")
 
 # Form for user input
 form = st.form(key="form")
-form.subheader("Enter your profile")
+form.subheader("Enter your profile to discover relevant financial aid programmes for you")
 
 # Widgets to reflect student's financial condition
 student_school = form.selectbox(
