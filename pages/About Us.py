@@ -5,7 +5,7 @@ st.title("About this App")
 st.write("This is a Streamlit App that offers two main use cases")
 
 st.write('''Financial aid programmes are very important to university students, both local and international. However, online information on relevant programmes is very dense and hard to sift through.
-        This application seeks NUS and NTU students navigate the maze of financial aid programmes information online by providing a one-stop app to discover financial aid programme information tailored to each student's profile.''')
+        This application seeks to help NUS and NTU students navigate the maze of financial aid programmes information online by providing a one-stop app to discover financial aid programme information tailored to each student's profile.''')
 
 with st.expander("First use case: Finding tailored financial aid programmes"):
     st.write('''
