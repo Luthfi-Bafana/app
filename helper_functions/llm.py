@@ -9,7 +9,7 @@ if load_dotenv('.env'):
    OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 else:
    # for deployment on streamlit community cloud
-   st.secrets['OPENAI_API_KEY']
+   OPENAI_API_KEY = st.secrets['OPENAI_API_KEY']
    
 
 # Pass the API Key to the OpenAI Client
